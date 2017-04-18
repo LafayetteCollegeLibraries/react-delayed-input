@@ -16,5 +16,12 @@
   },
   "scripts": {
     "test": "jest"
+  },
+  "bugs": {
+    "url": "https://github.com/LafayetteCollegeLibraries/react-delayed-input/issues"
+  },
+  "repostitory": {
+    "type": "git",
+    "url": "https://github.com/LafayetteCollegeLibraries/react-delayed-input.git"
   }
 }
