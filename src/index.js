@@ -1,3 +1,5 @@
+'use strict'
+
 const React = require('react')
 const assign = require('object-assign')
 
