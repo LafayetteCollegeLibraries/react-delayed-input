@@ -1,6 +1,8 @@
 react-delayed-input
 ===================
 
+[![Build Status](https://travis-ci.org/LafayetteCollegeLibraries/react-delayed-input.svg?branch=master)](https://travis-ci.org/LafayetteCollegeLibraries/react-delayed-input)
+
 A small React input component designed to put off triggering `onChange`
 until the element is blurred.
 
